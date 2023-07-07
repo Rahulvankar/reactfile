@@ -1,0 +1,24 @@
+.container {
+  text-align: center;
+}
+.quantity_minus,
+.quantity_plus {
+  border: 1px solid;
+  display: inline-block;
+  width: 20px;
+  background-color: bisque;
+  height: auto;
+  font-weight: 900;
+}
+.quantity {
+  background-color: aliceblue;
+  width: 9%;
+  margin: auto;
+  border: 1px solid;
+}
+input {
+  width: 50px;
+  font-size: 20px;
+  text-align: center;
+  margin: 0 5px;
+}
